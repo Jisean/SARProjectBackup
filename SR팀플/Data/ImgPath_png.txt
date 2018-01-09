@@ -1,0 +1,11 @@
+Sentry|Sentry|5|..\Resources\PNG\Sentry\Sentry\Sentry%d.png
+Terrain|Stage1|1|..\Resources\PNG\Terrain\Stage1\Terrain%d.png
+Terrain|Stage3|1|..\Resources\PNG\Terrain\Stage3\Terrain%d.png
+Terrain|Stage3Back|1|..\Resources\PNG\Terrain\Stage3Back\Back%d.png
+Terrain|StageBack|1|..\Resources\PNG\Terrain\StageBack\BackY%d.png
+Terrain|LastStage|1|..\Resources\PNG\Terrain\LastStage\Back%d.png
+Terrain|Terrain|1|..\Resources\PNG\Terrain\Terrain\Terrain%d.png
+Player|Left|2|..\Resources\PNG\Player\Left\Player%d.png
+Terrain|Shot|1|..\Resources\PNG\Terrain\Shot\Terrain%d.png
+Terrain|ShotBack|1|..\Resources\PNG\Terrain\ShotBack\Back%d.png
+Sentry|Blast|19|..\Resources\PNG\Sentry\Blast\Blast%d.png

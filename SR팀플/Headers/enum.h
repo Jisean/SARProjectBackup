@@ -1,0 +1,32 @@
+#pragma once
+
+enum OBJID
+{
+	OBJ_BACK,
+	OBJ_PLAYER,
+	OBJ_EFFECT,
+	OBJ_UI,
+	OBJ_END
+};
+
+enum SCENEID
+{
+	SC_LOGO,
+	SC_STAGE,
+	SC_END
+};
+
+
+enum TEXTYPE
+{
+	TEX_SINGLE,
+	TEX_MULTI,
+	TEX_END
+};
+
+enum DATAID
+{
+	PLAYER_DATA,
+	PLAYER_MATRIX,
+	PLAYER_END
+};
